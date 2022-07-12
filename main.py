@@ -76,5 +76,5 @@ async def on_message(message):
 
 keep_alive()
 client.loop.create_task(ch_pr())
-
-client.run('OTA1ODEzMjMzMjAwNDA2NTU5.YYPiTw.E2BbwATtzoQvQzsHw6szeAr4gHk')
+#your discord bot token paste here 👇
+client.run('')
